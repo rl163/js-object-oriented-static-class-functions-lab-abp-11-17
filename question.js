@@ -1,6 +1,6 @@
 'use strict';
 class Question {
-  static _All() {
+  static All() {
     return this._All
   }
 
