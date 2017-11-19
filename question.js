@@ -17,3 +17,5 @@ class Question {
     this.constructor._All.push(this)
   }
 }
+
+Questions._All=[]
